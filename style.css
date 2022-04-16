@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+  }
+  li {
+    list-style:circle;
+    display: inline-block;
+    margin: 30px;
+  }
